@@ -46,6 +46,9 @@
 
 <br clear="both">
 
-<picture>
-    ![snake animation](https://github.com/<JhonHernandezz>/<JhonHernandezz>/blob/output/github-contribution-grid-snake2.svg)
-</picture>
+<div align="center">
+    <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JhonHernandezz/JhonHernandezz/output/github-contribution-grid-snake-dark.svg">
+          <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JhonHernandezz/JhonHernandezz/output/github-contribution-grid-snake.svg">
+    </picture>  
+</div>
