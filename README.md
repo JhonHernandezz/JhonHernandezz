@@ -41,7 +41,8 @@
 <br clear="both">
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=JhonHernandezz&locale=en&mode=weekly&theme=blue-green&hide_border=true&border_radius=0&order=3" height="230" alt="streak graph" />
+    
+![](https://github-readme-streak-stats.herokuapp.com/?user=JhonHernandezz&theme=blue-green&hide_border=true)
 </div>
 
 <br clear="both">
