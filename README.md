@@ -12,9 +12,26 @@
 
 <p align="center">🍀 I am 24 years old, passionate about programming, Fullstack developer focused on NodeJS, ExpressJS, ReactJS or AngularJS, Ionic, MySQL or MongoDB, graduated as a technologist in analysis anddevelopment of information systems, strong leadership skills, active listening, teamwork, self-taught, versatile, responsible. <br><br>🚀 Outside of programming, I enjoy exploring new places,extreme sports and hanging out with friends.<br><br>💯 "¡ready for new adventures and challenges!</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonhernandez1899/)
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white)](mailto:jhonhernandez.1899@gmail.com)
-[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white)](https://www.instagram.com/jhon._.hernandez/)
+<div align="center">
+  <a href="#"><img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" alt="dino-run-ending" border="0"></a>
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jhonhernandez1899/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:jhonhernandez.1899@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/jhon._.hernandez/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="40" alt="instagram logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="40" alt="discord logo"  />
+</div>
+
+###
 
 </div>
 
